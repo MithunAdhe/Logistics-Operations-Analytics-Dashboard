@@ -378,7 +378,7 @@ Used for workforce optimization.
 
 ---
 
-## Fleet Analytics
+## Vehicles Performance
 
 Insights include:
 
@@ -445,10 +445,10 @@ Logistics-PowerBI-Dashboard
 │   └── Vehicles.csv
 │
 ├── Screenshots
-│   ├── executive-overview.png
+│   ├── overview.png
 │   ├── hub-performance.png
 │   ├── driver-performance.png
-│   └── fleet-analytics.png
+│   └── Vehicles-performance.png
 │
 └── README.md
 ```
