@@ -476,7 +476,7 @@ Logistics-PowerBI-Dashboard
 ![Driver Performance](Screenshots/driver-performance.png)
 
 ## Vehicles Performance
-![Vehicles Performance](Screenshots/vehicles-performance.png)
+![Vehicles Performance](Screenshots/Vehicles-performance.png)
 
 ---
 
