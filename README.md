@@ -467,16 +467,16 @@ Logistics-PowerBI-Dashboard
 # 📸 Dashboard Screenshots
 
 ## Overview
-![Overview](screenshots/overview.png)
+![Overview](Screenshots/overview.png)
 
 ## Hub Performance
-![Hub Performance](screenshots/hub-performance.png)
+![Hub Performance](Screenshots/hub-performance.png)
 
 ## Driver Performance
-![Driver Performance](screenshots/driver-performance.png)
+![Driver Performance](Screenshots/driver-performance.png)
 
 ## Vehicles Performance
-![Vehicles Performance](screenshots/vehicles-performance.png)
+![Vehicles Performance](Screenshots/vehicles-performance.png)
 ---
 
 # 👤 Author
